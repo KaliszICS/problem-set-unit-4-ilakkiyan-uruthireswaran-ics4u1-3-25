@@ -1,0 +1,10 @@
+K(30%): 95
+I(30%): 83
+C(10%): 40
+A(30%): 83
+82.3%
+no javadocs or comments
+Cannot use collections.shuffle
+missing reshuffle method
+Constructor should take an array not an arraylist
+player draw should not add null to hand (means deck is empty)
